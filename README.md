@@ -6,7 +6,7 @@ Craft 3 Plugins
 Package | Developer | Description
 ------- | --------- | -----------
 [Admin Bar](https://github.com/wbrowar/craft-3-adminbar) | Will Browar | Front-end shortcuts for clients logged into Craft CMS
-[Agnostic Fetch](https://github.com/marionnewlevant/craft3-agnostic_fetch) | Marion Newlevant | Uniform syntax for fetching elements whether or not they have been eager loaded
+[Agnostic Fetch](https://github.com/marionnewlevant/craft-agnostic_fetch) | Marion Newlevant | Uniform syntax for fetching elements whether or not they have been eager loaded
 [Amazon S3](https://github.com/craftcms/aws-s3) | Pixel & Tonic | Amazon S3 volume type
 [Amazon SES](https://github.com/borucreative/craft3-ses) | BORU Creative | Amazon SES mailer adapter
 [Anchors](https://github.com/craftcms/anchors) | Pixel & Tonic | Add anchor links to headings in your Craft CMS website content
@@ -41,7 +41,7 @@ Package | Developer | Description
 [Mailgun](https://github.com/craftcms/mailgun) | Pixel & Tonic | Mailgun mailer adapter
 [Maintenance Mode](https://github.com/venveo/craft3-maintenancemode) | Venveo | Maintenance mode CLI helper for Craft
 [Mandrill](https://github.com/craftcms/mandrill) | Pixel & Tonic | Mandrill mailer adapter
-[Match Input](https://github.com/marionnewlevant/craft3-match_input) | Marion Newlevant | Field type for text fields that match a regex pattern
+[Match Input](https://github.com/marionnewlevant/craft-match_input) | Marion Newlevant | Field type for text fields that match a regex pattern
 [Minify](https://github.com/nystudio107/craft3-minify) | nystudio107 | A simple plugin that allows you to minify blocks of HTML, CSS, and JS inline in Craft CMS templates
 [NSM Fields](https://github.com/newism/craft3-fields) | Newism / Leevi Graham | Address, telephone and email fields
 [Parsedown](https://github.com/luwes/craft3-parsedown) | Wesley Luyten | Adds Parsedown, the PHP Markdown parser
@@ -54,7 +54,7 @@ Package | Developer | Description
 [Recipe](https://github.com/nystudio107/craft3-recipe) | nystudio107 | A comprehensive recipe FieldType for Craft CMS that includes metric/imperial conversion, portion calculation, and JSON-LD microdata support
 [Redirect](https://github.com/Dolphiq/craft3-plugin-redirect) | Dolphiq | Manage 301 and 302 redirects with an easy to use user interface.
 [Simple Text](https://github.com/craftcms/simple-text) | Pixel & Tonic | Simple textarea field type for Craft.
-[Snitch](https://github.com/marionnewlevant/craft3-snitch) | Marion Newlevant | Report when two people might be editing the same entry
+[Snitch](https://github.com/marionnewlevant/craft-snitch) | Marion Newlevant | Report when two people might be editing the same entry
 [Social](https://github.com/dukt/social) | Dukt | Let your visitors log into Craft CMS with web services like Facebook, Google, Twitter…
 [Sprout Notes](https://github.com/barrelstrength/sproutnotes) | Barrel Strength Design | Sometimes you need to write a note!
 [Stamp](https://github.com/aelvan/Stamp-Craft/tree/craft3) | André Elvan | Adds timestamp to filenames for easy asset revisioning.
@@ -64,7 +64,7 @@ Package | Developer | Description
 [Title Entries Field](https://github.com/Dolphiq/craft3-plugin-title-entries-field) | Dolphiq | Entries-like field type that allows authors to set custom entry titles for each relation.
 [Transcoder](https://github.com/nystudio107/craft3-transcoder) | nystudio107 | Transcode video & audio files to various formats, and provide video thumbnails
 [Typogrify](https://github.com/nystudio107/craft3-typogrify) | nystudio107 | Typogrify prettifies your web typography by preventing ugly quotes and 'widows' and more.
-[Twig Perversion](https://github.com/marionnewlevant/craft3-twig_perversion) | Marion Newlevant | Making Twig do things it really shouldn't. Break, continue, and return tags
+[Twig Perversion](https://github.com/marionnewlevant/craft-twig_perversion) | Marion Newlevant | Making Twig do things it really shouldn't. Break, continue, and return tags
 [Twitter](https://github.com/dukt/twitter) | Dukt | Tweet field, search widget, embeds, and authenticated Twitter API requests for Craft CMS.
 [Video Embedder](https://github.com/mikestecker/craft3-videoembedder) | Mike Stecker | Craft variable that takes a YouTube or Vimeo URL and converts it to a iframe-friendly embed URL.
 [Videos](https://github.com/dukt/videos) | Dukt | Connect to YouTube & Vimeo and publish social videos on your website.
